@@ -1,0 +1,1 @@
+These are some of the applications where the concept of Langchain Expressions Language is used to create a conversational chatbots in certain niches - plat based diets, user information gathering and suggesting his behaviour.
